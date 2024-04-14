@@ -1,0 +1,5 @@
+1. import lote ya mal
+2. async lal await call ya tal
+3. backend ca method lal url pay ya tl frontend co
+4. api mar method ca "post" so params htae pay ya tal
+5. save lote yin search pyan call pay ya tl
